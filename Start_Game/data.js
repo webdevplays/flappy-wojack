@@ -17,10 +17,10 @@ gdjs.projectData = {
         "projectUuid": "751eac1b-75ca-4fff-b26d-fa67517ca1f7",
         "scaleMode": "linear",
         "sizeOnStartupMode": "adaptWidth",
-        "templateSlug": "wojak",
+        "templateSlug": "Flappy Wojak",
         "version": "1.0.0",
-        "name": "wojak",
-        "description": "Tap to keep your wojak in the air and make your way through the cave system. Get as far as you can before you crash in to a wall, submit your score, and try again.",
+        "name": "Flappy Wojak",
+        "description": "Tap to keep your Flappy Wojak in the air and make your way through the cave system. Get as far as you can before you crash in to a wall, submit your score, and try again.",
         "author": "",
         "windowWidth": 400,
         "windowHeight": 500,
@@ -763,7 +763,7 @@ gdjs.projectData = {
                 "name": "Text",
                 "type": "TextContainerCapability::TextContainerBehavior"
             }],
-            "string": "Wojak",
+            "string": "Flappy Wojak",
             "font": "04B_19.ttf",
             "textAlignment": "center",
             "characterSize": 70.0,
@@ -786,7 +786,7 @@ gdjs.projectData = {
                 "shadowOpacity": 127.0,
                 "smoothed": true,
                 "underlined": false,
-                "text": "Wojak",
+                "text": "Flappy Wojak",
                 "font": "04B_19.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
@@ -2105,7 +2105,7 @@ gdjs.projectData = {
                     "disabled": false
                 }
             }, {
-                "assetStoreId": "bfab3a269992cf43081e2cb8053c28aaef11f2f9e0d0cbdc00207ea271f69c2c",
+                "assetStoreId": "",
                 "name": "SubmitTextButton",
                 "type": "PanelSpriteButton::PanelSpriteButton",
                 "variant": "Yellow button 2",
